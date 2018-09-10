@@ -25,7 +25,7 @@ if(x=="1"){xxx="09/the-basics-of-candlestick-charts-in.html"}
 if(x=="2"){xxx="09/the-lurking-dangers-of-forex-robots.html"}
 if(x=="3"){xxx="09/trade-like-warren-buffet-and-use.html"}
 if(x=="4"){xxx="09/httpbug-adsblogspotcom201809forex.html"}
-if(x=="5"){xxx="09/forex-short-term-trading.html"}a_to_ve[i].href="https://planet-safelink.blogspot.com/2018/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="09/forex-short-term-trading.html"}a_to_ve[i].href="http://planet-safelink.blogspot.com/2018/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
